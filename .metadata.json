@@ -1,0 +1,10 @@
+[
+  {
+    "package": "auk",
+    "oncran": true
+  },
+  {
+    "package": "ebirdst",
+    "oncran": true
+  }
+]
