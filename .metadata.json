@@ -4,6 +4,7 @@
     "oncran": true
   },
   {
-    "package": "ebirdst"
+    "package": "ebirdst",
+    "oncran": true
   }
 ]
